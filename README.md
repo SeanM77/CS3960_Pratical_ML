@@ -1,1 +1,1 @@
-# CS3960_Pratical-ML
+# CS3960_Pratical_ML
